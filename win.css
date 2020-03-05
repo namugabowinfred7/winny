@@ -1,0 +1,22 @@
+.main{
+	padding-left: 200px;
+	background-color: red;
+	display: flex;
+	height: 50px;
+}
+.main2{
+	background-color: black;
+}
+.hr{
+	height: 12px;
+	color: black;
+	background-color: black; 
+
+}
+.main3{
+	background-color: blue;
+}
+.pp{
+	padding-bottom: 900px;
+}
+
